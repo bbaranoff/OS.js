@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    RbST (0.6.5)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     colorator (1.1.0)
@@ -71,6 +72,7 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
+  RbST
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.10.0)
   jekyll-feed (~> 0.6)
