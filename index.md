@@ -9,7 +9,9 @@ nav_order: 1
 ---
 
 ---
-> "The quieter you become the most you are able to hear"
+
+  > "The quieter you become the most you are able to hear"
+
 ---
 
 ---
@@ -62,23 +64,18 @@ First TIme :
 ---|---
 test|test
 
----
----
-layout: home
-title: About
-permalink: /about/
-nav_bar: 2
----
+
 
 ## Profile information
-    - name: Bastien Baranoff
-    - tagline: Cybersecurity in Software Defined Radio
-    - email: bastienbaranoff@gmail.com
-    - timezone: Paris/France
-    - website: https://bbaranoff.github.io/
-    - linkedin: Bastien Baranoff
-    - github: bbaranoff
-    - twitter: '@bastienbaranoff'
+    ---|---
+    - name | Bastien Baranoff
+    - tagline | Cybersecurity in Software Defined Radio
+    - email | bastienbaranoff@gmail.com
+    - timezone | Paris/France
+    - website | https://bbaranoff.github.io/
+    - linkedin | Bastien Baranoff
+    - github | bbaranoff
+    - twitter | '@bastienbaranoff'
     
 ## Languages:
 
