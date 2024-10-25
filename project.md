@@ -9,7 +9,8 @@ permalink: /project/
 ---
   
 ## LTE Redirection Attack  
- {% pdf "https://raw.githubusercontent.com/bbaranoff/bbaranoff.github.io/refs/heads/main/assets/redir.pdf" %}
-
+<body marginwidth="50" marginheight="50" topmargin="50" leftmargin="50">
+<object data="{{ site.url }}{{ site.baseurl }}/assets/redir.pdf" type="application/pdf"></object>
+</body>
 ---
 
