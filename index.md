@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Local Development Index Page
+title: Home
 nav_order: 1
 ---
 
