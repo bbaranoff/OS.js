@@ -5,8 +5,10 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+toc: true
 edit: true
-
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://bbaranoff.github.io"
 copyright:
   revision: true
 
