@@ -15,8 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Bastien Baranoff
 email: bastienbaranoff@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-        This is to introduce myself
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bastienbaranoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bastienbaranoff
@@ -27,6 +25,38 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+lang: en-US
+description: Just another documentation theme compatible with GitHub Pages, based on sphinx_rtd_theme
+
+edit: true
+
+copyright:
+  revision: true
+
+addons:
+  - github
+  - gems
+  - analytics
+
+addons_commit: true
+
+theme: null
+
+# sort
+readme_index:
+  with_frontmatter: true
+
+sass:
+  style: compressed
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - ci.sh
+  - CODE_OF_CONDUCT.md
+  - LICENSE
+  - jekyll-rtd-theme.gemspec
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
