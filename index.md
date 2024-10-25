@@ -100,23 +100,34 @@ time | 2020-2021
 
 ## Experience:
 
-    info:
-      - role: CyberSecurity Research
-        time: 2024
-        company: Penthertz
+- CyberSecurity Research
+  - time: 2024
+  - company: Penthertz
 
-      - role: Former
-        time: 2024
-        company: University of Perpignan via Domitia
+- Former
+  - time: 2024
+  - company: University of Perpignan via Domitia
 
-      - role: Developper
-        time: 2021
-        company: PROMES-CNRS
-        details: LoRa(WAN) connection testing
+- Developper
+  - time: 2021
+  - company: PROMES-CNRS
+  - details: LoRa(WAN) connection testing
+
+- Former
+  - time: 2017
+  - company: Lycée Déodat de Séverac
+
+- Electrical Engenering
+  - time: 2013
+  - company: PROMES-CNRS
+  - details: Junior Research
 
 ## Projects:
+
+
+```danger
+
     intro: Intrigate by A5/1 in the 2010s I searched around the internet and found a lot of interesting resources
 
-## Oss:
-    title: OSS Contributions
-    intro: I was quoted two times at MyriadRF blog for Osmocom conection on RaspberryPi
+```
+
