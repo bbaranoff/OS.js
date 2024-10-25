@@ -6,6 +6,12 @@
     </embed>
 </object>
 
+<object data="assets/redir.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/redir.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/redir.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 ```patch
 --- openlte_v00-20-05/liblte/src/liblte_rrc.cc	2016-10-09 22:17:50.000000000 +0200
