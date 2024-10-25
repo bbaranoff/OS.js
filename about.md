@@ -35,6 +35,7 @@ permalink: /about/
 ## Career Profile
     summary: |
       Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
+
 ---
 
 ---
@@ -48,6 +49,7 @@ permalink: /about/
       - degree: Licence In Computer Science
         university: University of Perpignan via Domitia
         time: 2020-2021
+
 ---
 
 
@@ -68,6 +70,7 @@ permalink: /about/
         time: 2021
         company: PROMES-CNRS
         details: LoRa(WAN) connection testing
+
 ---
 
 ---
@@ -80,6 +83,7 @@ permalink: /about/
 ---
 
 ## Oss
+
     title: OSS Contributions
     intro: I was quoted two times at MyriadRF blog for Osmocom conection on RaspberryPi
 
