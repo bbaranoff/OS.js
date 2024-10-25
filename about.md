@@ -1,9 +1,7 @@
 ---
-
 layout: home
 title: About
 permalink: /about/
-
 ---
 
 ---
@@ -73,19 +71,6 @@ permalink: /about/
         time: 2021
         company: PROMES-CNRS
         details: LoRa(WAN) connection testing
-
-      - role: Developper
-        time: 2020
-        company: Tata Advanced Systems Limited
-        details: Mobile Security Assesment
-
-      - role: Former
-        time: 2017
-        company: Lycée Déodat de Séverac
-
-      - role: Electrical Engineer
-        time: 2013
-        company: PROMES-CNRS
 
 ---
 
