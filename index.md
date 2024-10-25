@@ -1,8 +1,17 @@
-## Resume
+---
+sort: 1
+---
 
-> "The quieter you become the most you are able to hear"
+# Resume
+
+```tip
+
+The quieter you become the most you are able to hear
+
+```
 
 ---
+
 ## Experience  
 
 ### Developer  
@@ -49,11 +58,6 @@ First TIme :
 [![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
 
 
----|---
-test|test
-
-
-
 ## Profile information
     
 ---|---
@@ -68,26 +72,31 @@ twitter | '@bastienbaranoff'
     
 ## Languages:
 
-      info:
-        - idiom: French
-          level: Native
+```note
 
-        - idiom: English
-          level: Professional
+  French: Native |  English: Professional
+
+```
+
 
 ## Career Profile:
-    summary: |
+
+```warning
       Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
+```
+
 
 ## Education:
-    info:
-      - degree: MSc in Electronics Computers 
-        university: University of Perpignan via Domitia
-        time: 2011 - 2013
 
-      - degree: Licence In Computer Science
-        university: University of Perpignan via Domitia
-        time: 2020-2021
+---|---
+degree |  MSc in Electronics Computers 
+university | University of Perpignan via Domitia
+time | 2011 - 2013
+
+---|---
+degree | Licence In Computer Science
+university | University of Perpignan via Domitia
+time | 2020-2021
 
 ## Experience:
 

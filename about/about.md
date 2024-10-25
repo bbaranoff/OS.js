@@ -2,9 +2,7 @@
 sort: 1
 ---
 
-# Resume
-
-{% include list.liquid all=true %}
+# About
 
 ## Profile information
     - name: Bastien Baranoff
