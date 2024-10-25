@@ -9,8 +9,9 @@ permalink: /project/
 ---
   
 ## LTE Redirection Attack  
+
+{% pdf "assets/redir.pdf" %}  
   
-{% pdf "/assets/redir.pdf" %}  
 
 ---
 
