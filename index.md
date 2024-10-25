@@ -29,11 +29,11 @@ nav_order: 1
   
 ### Former  
   
-<a href="https://univ-perp.fr"><img src="assets/upvd.png"  alt="drawing2" width="360"/>  
+<a href="https://univ-perp.fr"></a><img src="assets/upvd.png"  alt="drawing2" width="360"/>  
   
 ### Former (Education Nationale)  
   
-<a href=https://www.education.gouv.fr/"><img src="https://bigbluebutton.org/wp-content/uploads/2022/11/france-copy.jpg"  alt="drawing2" width="360"/>  
+<a href=https://www.education.gouv.fr/"></a><img src="https://bigbluebutton.org/wp-content/uploads/2022/11/france-copy.jpg"  alt="drawing2" width="360"/>  
 
 
 ---
