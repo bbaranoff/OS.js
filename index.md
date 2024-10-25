@@ -1,19 +1,15 @@
 ---
 layout: home
-title : Resume
+title: Local Development Index Page
 nav_order: 1
 ---
 
 ---
-
-# Bastien Baranoff
-
+# Resume
 ---
 
 ---
-
 > "The quieter you become the most you are able to hear"
-
 ---
 
 ---
@@ -21,30 +17,21 @@ nav_order: 1
 
 ### Developer  
 
-<a href="https://www.tataadvancedsystems.com/"><img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" alt="drawing0" width="360"/>  
-  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" style="display: center" alt="drawing0" width="280"/>  
+
 ### Junior Researcher 
   
-<a href="https://www.promes.cnrs.fr/"><img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/cropped-PROMES-LONG-petit-pour-web.jpg?raw=true" alt="drawing1" width="360"/>  
-  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/cropped-PROMES-LONG-petit-pour-web.jpg?raw=true" style="display: center" alt="drawing1" width="280"/>  
+
 ### CyberSecurity Analyst  
   
-<a href="https://penthertz.com/"><img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/Penthertz_logo.png?raw=true" alt="drawing2" width="360"/>  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/Penthertz_logo.png?raw=true" style="display: center" alt="drawing2" width="280"/>  
   
-### Former  
-  
-<a href="https://univ-perp.fr"><img src="assets/upvd.png"  alt="drawing2" width="360"/>  
-  
-### Former (Education Nationale)  
-  
-<a href=https://www.education.gouv.fr/"><img src="https://bigbluebutton.org/wp-content/uploads/2022/11/france-copy.jpg"  alt="drawing2" width="360"/>  
-
-
 ---
 
 ---
 
-## Quoted
+## Quoted :
 
 Second Time :  
 
@@ -52,7 +39,7 @@ Second Time :
 
 First TIme :  
 
-[![image](assets/myriad2.png)](https://myriadrf.org/news/ota-openbsc-setup-scripts-80msps-from-a-limesdr-mini-a-satellite-hunt-and-more/)
+[![image](https://github.com/user-attachments/assets/b9c6fac4-550f-44c1-94ea-5bc5af34e760)](https://myriadrf.org/news/ota-openbsc-setup-scripts-80msps-from-a-limesdr-mini-a-satellite-hunt-and-more/)
 
 ---
 
@@ -60,6 +47,6 @@ First TIme :
 
 ## Stuff
 
-[![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
+[![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
 
 ---
