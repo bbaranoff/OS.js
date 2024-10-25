@@ -17,14 +17,14 @@ title: Bastien Baranoff
 email: bastienbaranoff@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         This is to introduce myself
-baseurl: "https://bastienbaranoff.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bastienbaranoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bastienbaranoff
 github_username:  bbaranoff
 
 # Build settings
 markdown: kramdown
-theme: jekyll-rtd-theme
+theme: minima
 plugins:
   - jekyll-feed
 
