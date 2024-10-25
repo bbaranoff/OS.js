@@ -4,15 +4,58 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Profile information
+    - name: Bastien Baranoff
+    - tagline: Cybersecurity in Software Defined Radio
+    - email: bastienbaranoff@gmail.com
+    - timezone: Paris/France
+    - website: https://bbaranoff.github.io/
+    - linkedin: Bastien Baranoff
+    - github: bbaranoff
+    - twitter: '@bastienbaranoff'
+    
+## Languages:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+      info:
+        - idiom: French
+          level: Native
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+        - idiom: English
+          level: Professional
 
+## Career Profile:
+    summary: |
+      Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
 
-[jekyll-organization]: https://github.com/jekyll
+## Education:
+    info:
+      - degree: MSc in Electronics Computers 
+        university: University of Perpignan via Domitia
+        time: 2011 - 2013
+
+      - degree: Licence In Computer Science
+        university: University of Perpignan via Domitia
+        time: 2020-2021
+
+## Experience:
+
+    info:
+      - role: CyberSecurity Research
+        time: 2024
+        company: Penthertz
+
+      - role: Former
+        time: 2024
+        company: University of Perpignan via Domitia
+
+      - role: Developper
+        time: 2021
+        company: PROMES-CNRS
+        details: LoRa(WAN) connection testing
+
+## Projects:
+    intro: Intrigate by A5/1 in the 2010s I searched around the internet and found a lot of interesting resources
+
+## Oss:
+    title: OSS Contributions
+    intro: I was quoted two times at MyriadRF blog for Osmocom conection on RaspberryPi
