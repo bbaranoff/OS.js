@@ -1,8 +1,3 @@
----
-sort: 2
----
-
-
 # Resume
 
 {% include list.liquid all=true %}
