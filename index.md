@@ -33,7 +33,7 @@ nav_order: 1
   
 ### Former  
   
-<img src="https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Perpignan#/media/Fichier:UPVD_Logo_2023.jpg"  alt="drawing2" width="280"/>  
+<img src="assets/upvd.png"  alt="drawing2" width="280"/>  
   
 ### Former (Education Nationale)  
   
