@@ -1,15 +1,19 @@
 ---
 layout: home
-title: Local Development Index Page
+title : Resume
 nav_order: 1
 ---
 
 ---
+
 # Resume
+
 ---
 
 ---
+
 > "The quieter you become the most you are able to hear"
+
 ---
 
 ---
