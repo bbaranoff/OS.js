@@ -16,6 +16,7 @@ permalink: /about/
     - linkedin: Bastien Baranoff
     - github: bbaranoff
     - twitter: '@bastienbaranoff'
+
 ---
 
 ---
