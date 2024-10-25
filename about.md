@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ---
+
 ## Profile information  
 
     - name: Bastien Baranoff
@@ -18,6 +19,7 @@ permalink: /about/
 ---
 
 ---
+
 ## Languages
 
     - idiom: French
@@ -28,14 +30,16 @@ permalink: /about/
 ---
 
 ---
-## Career Profile:
+
+## Career Profile
     summary: |
       Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
 ---
 
 ---
-## Education:
-    info:
+
+## Education
+
       - degree: MSc in Electronics Computers 
         university: University of Perpignan via Domitia
         time: 2011 - 2013
@@ -45,8 +49,10 @@ permalink: /about/
         time: 2020-2021
 ---
 
+
 ---
-## Experience:
+
+## Experience
 
     info:
       - role: CyberSecurity Research
@@ -64,12 +70,16 @@ permalink: /about/
 ---
 
 ---
-## Projects:
+
+## Projects
     intro: Intrigate by A5/1 in the 2010s I searched around the internet and found a lot of interesting resources
+
 ---
 
 ---
-## Oss:
+
+## Oss
     title: OSS Contributions
     intro: I was quoted two times at MyriadRF blog for Osmocom conection on RaspberryPi
+
 ---
