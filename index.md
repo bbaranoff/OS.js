@@ -39,7 +39,7 @@ Second Time :
 
 First TIme :  
 
-[![image](https://github.com/user-attachments/assets/b9c6fac4-550f-44c1-94ea-5bc5af34e760)](https://myriadrf.org/news/ota-openbsc-setup-scripts-80msps-from-a-limesdr-mini-a-satellite-hunt-and-more/)
+[![image](assets/myriad2.png)](https://myriadrf.org/news/ota-openbsc-setup-scripts-80msps-from-a-limesdr-mini-a-satellite-hunt-and-more/)
 
 ---
 
@@ -47,6 +47,6 @@ First TIme :
 
 ## Stuff
 
-[![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
+[![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
 
 ---
