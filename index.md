@@ -21,7 +21,7 @@ nav_order: 1
 
 ### Developer  
 
-<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" alt="drawing0" width="3600"/>  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" alt="drawing0" width="360"/>  
   
 ### Junior Researcher 
   
