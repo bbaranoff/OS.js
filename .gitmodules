@@ -1,3 +1,8 @@
 [submodule "diabloweb"]
 	path = diabloweb
 	url = https://github.com/d07RiV/diabloweb
+[submodule "OS.js"]
+	path = OS.js
+	url = https://github.com/os-js/OS.js
+
+
