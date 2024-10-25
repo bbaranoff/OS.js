@@ -21,23 +21,23 @@ nav_order: 1
 
 ### Developer  
 
-<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" alt="drawing0" width="280"/>  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/tata.png?raw=true" alt="drawing0" width="3600"/>  
   
 ### Junior Researcher 
   
-<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/cropped-PROMES-LONG-petit-pour-web.jpg?raw=true" alt="drawing1" width="280"/>  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/cropped-PROMES-LONG-petit-pour-web.jpg?raw=true" alt="drawing1" width="360"/>  
   
 ### CyberSecurity Analyst  
   
-<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/Penthertz_logo.png?raw=true" alt="drawing2" width="280"/>  
+<img src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/Penthertz_logo.png?raw=true" alt="drawing2" width="360"/>  
   
 ### Former  
   
-<img src="assets/upvd.png"  alt="drawing2" width="280"/>  
+<img src="assets/upvd.png"  alt="drawing2" width="360"/>  
   
 ### Former (Education Nationale)  
   
-<img src="https://bigbluebutton.org/wp-content/uploads/2022/11/france-copy.jpg"  alt="drawing2" width="280"/>  
+<img src="https://bigbluebutton.org/wp-content/uploads/2022/11/france-copy.jpg"  alt="drawing2" width="360"/>  
 
 
 ---
