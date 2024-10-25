@@ -8,7 +8,76 @@ The quieter you become the most you are able to hear
 
 ---
 
-## Experience  
+## Profile information
+    
+---|---
+name | Bastien Baranoff
+tagline | Cybersecurity in Software Defined Radio
+email | bastienbaranoff@gmail.com
+timezone | Paris/France
+website | https://bbaranoff.github.io/
+linkedin | Bastien Baranoff
+github | bbaranoff
+twitter | '@bastienbaranoff'
+    
+## Languages:
+
+```note
+
+  French: Native |  English: Professional
+
+```
+
+
+## Career Profile:
+
+```warning
+      Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
+```
+
+
+
+
+## Education:
+
+---|---
+degree |  MSc in Electronics Computers 
+university | University of Perpignan via Domitia
+time | 2011 - 2013
+
+---|---
+degree | Licence In Computer Science
+university | University of Perpignan via Domitia
+time | 2020-2021
+
+## Experience
+
+- CyberSecurity Research
+  - time: 2024
+  - company: Penthertz
+
+- Former
+  - time: 2024
+  - company: University of Perpignan via Domitia
+
+- Developper
+  - time: 2021
+  - company: PROMES-CNRS
+  - details: LoRa(WAN) connection testing
+
+- Developper
+  - time: 2020
+  - company: Tata Advanced System Limited
+  - details: Mobile Security Assesment
+
+- Former
+  - time: 2017
+  - company: Lycée Déodat de Séverac
+
+- Electrical Engenering
+  - time: 2013
+  - company: PROMES-CNRS
+  - details: Junior Research
 
 ### Developer  
 
@@ -53,75 +122,6 @@ First TIme :
 
 [![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
 
-
-## Profile information
-    
----|---
-name | Bastien Baranoff
-tagline | Cybersecurity in Software Defined Radio
-email | bastienbaranoff@gmail.com
-timezone | Paris/France
-website | https://bbaranoff.github.io/
-linkedin | Bastien Baranoff
-github | bbaranoff
-twitter | '@bastienbaranoff'
-    
-## Languages:
-
-```note
-
-  French: Native |  English: Professional
-
-```
-
-
-## Career Profile:
-
-```warning
-      Physics -> Electronics -> Computer -> Embedded -> Software Defined Radio
-```
-
-
-## Education:
-
----|---
-degree |  MSc in Electronics Computers 
-university | University of Perpignan via Domitia
-time | 2011 - 2013
-
----|---
-degree | Licence In Computer Science
-university | University of Perpignan via Domitia
-time | 2020-2021
-
-## Experience:
-
-- CyberSecurity Research
-  - time: 2024
-  - company: Penthertz
-
-- Former
-  - time: 2024
-  - company: University of Perpignan via Domitia
-
-- Developper
-  - time: 2021
-  - company: PROMES-CNRS
-  - details: LoRa(WAN) connection testing
-
-- Developper
-  - time: 2020
-  - company: Tata Advanced System Limited
-  - details: Mobile Security Assesment
-
-- Former
-  - time: 2017
-  - company: Lycée Déodat de Séverac
-
-- Electrical Engenering
-  - time: 2013
-  - company: PROMES-CNRS
-  - details: Junior Research
 
 ## Projects:
 
