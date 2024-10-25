@@ -2,13 +2,13 @@
 
 <object data="assets/my.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/my.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/my.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/my.pdf">Download PDF</a></p>
     </embed>
 </object>
 
 <object data="assets/redir.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/redir.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/redir.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/redir.pdf">Download PDF</a></p>
     </embed>
 </object>
 
