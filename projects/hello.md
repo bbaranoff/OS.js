@@ -2,18 +2,6 @@
 
 <iframe width="560" height="315" src="assets/redir.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<object data="assets/my.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets/my.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/my.pdf">Download PDF</a></p>
-    </embed>
-</object>
-
-<object data="assets/redir.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets/redir.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/redir.pdf">Download PDF</a></p>
-    </embed>
-</object>
-
 
 ```patch
 --- openlte_v00-20-05/liblte/src/liblte_rrc.cc	2016-10-09 22:17:50.000000000 +0200
@@ -259,4 +247,16 @@
          metadata_rx.flags     = 0;
          metadata_rx.timestamp = next_tx_ts - (radio_params->N_samps_per_subfr*2); // Retard RX by 2 subframes
 ```
+
+<object data="assets/my.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/my.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/my.pdf">Download PDF</a></p>
+    </embed>
+</object>
+
+<object data="assets/redir.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/redir.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/redir.pdf">Download PDF</a></p>
+    </embed>
+</object>
 
