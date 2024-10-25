@@ -1,10 +1,12 @@
 ---
 title: Home
-nav_order: 1
+sort: 1
 ---
 
 ---
+
 # Resume
+
 ---
 
 ---
