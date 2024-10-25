@@ -1,5 +1,12 @@
 # LTE_Redirection_Attack
 
+<object data="assets/my.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/my.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/my.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 ```patch
 --- openlte_v00-20-05/liblte/src/liblte_rrc.cc	2016-10-09 22:17:50.000000000 +0200
 +++ openlte_v00-20-05/liblte/src/liblte_rrc.cc	2022-01-25 17:14:32.613323868 +0100
