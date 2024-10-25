@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.9.5"
+gem "jekyll-pdf-embed"
 gem "webrick"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
