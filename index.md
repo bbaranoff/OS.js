@@ -1,19 +1,6 @@
----
-title: Home
-sort: 1
----
+## Resume
 
----
-
-# Resume
-
----
-
----
-
-  > "The quieter you become the most you are able to hear"
-
----
+> "The quieter you become the most you are able to hear"
 
 ---
 ## Experience  
