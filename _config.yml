@@ -1,6 +1,6 @@
-title: jekyll-rtd-theme
+title: Resume
 lang: en-US
-description: Just another documentation theme compatible with GitHub Pages, based on sphinx_rtd_theme
+description: My resume and others...
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
