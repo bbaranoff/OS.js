@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 ---
-```
+
 ## Profile information  
 
     - name: Bastien Baranoff
