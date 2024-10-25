@@ -2,7 +2,7 @@
 layout: home
 title: About
 permalink: /about/
-nav_bar: 2
+sort: 2
 ---
 
 ## Profile information
