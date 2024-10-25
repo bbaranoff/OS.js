@@ -22,7 +22,7 @@ github_username:  bbaranoff
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-rtd-theme
 plugins:
   - jekyll-feed
 lang: en-US
@@ -56,7 +56,6 @@ exclude:
   - ci.sh
   - CODE_OF_CONDUCT.md
   - LICENSE
-  - jekyll-rtd-theme.gemspec
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
