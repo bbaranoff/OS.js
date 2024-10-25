@@ -1,9 +1,7 @@
 ---
-
 layout: home
 title: Local Development Index Page
 nav_order: 1
-
 ---
 
 ---
@@ -49,13 +47,6 @@ First TIme :
 
 ## Stuff
 
-<<<<<<< HEAD
 [![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
-=======
-[![](https://github.com/bbaranoff/bbaranoff.github.io/blob/main/output.gif?raw=true)](https://x.com/i/status/1763577169865826734)
-=======
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
->>>>>>> 844b9cf9e74a7a78c0f1c360b8dccec3e3b3ddbf
 
 ---
