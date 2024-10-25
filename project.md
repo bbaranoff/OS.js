@@ -10,7 +10,7 @@ permalink: /project/
   
 ## LTE Redirection Attack  
   
-<iframe src="https://github.com/bbaranoff/bbaranoff.github.io/blob/main/assets/redir.pdf" width="100%" height="500" frameborder="0" />  
-  
+<object data="assets/redir.pdf" width="1000" height="1000" type='application/pdf'></object>  
+
 ---
 
