@@ -28,7 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-plugins:
   - jekyll-pdf-embed
 
 # Exclude from processing.
