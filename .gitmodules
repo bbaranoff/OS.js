@@ -1,0 +1,3 @@
+[submodule "diabloweb"]
+	path = diabloweb
+	url = https://github.com/d07RiV/diabloweb
